@@ -411,7 +411,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text: <span>备案号：<a href="http://beian.miit.gov.cn">鲁ICP备20028277号-2</a></span>
+  custom_text: <span>备案号：<a href="http://beian.miit.gov.cn">鲁ICP备20028277号-2</a></span><br><a style="color:rgba(0,0,0,0);" href="http://www.sunruikang.com">孙睿康博客</a>
 
   copyright: false # Copyright of theme and framework
 
